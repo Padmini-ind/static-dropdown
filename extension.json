@@ -1,0 +1,9 @@
+{
+  "id": "static-dropdown-multiselect",
+  "name": "static-dropdown-multiselect",
+  "srcdoc": "./build/index.html",
+  "fieldTypes": [
+    "Symbol",
+    "Symbols"
+  ]
+}
